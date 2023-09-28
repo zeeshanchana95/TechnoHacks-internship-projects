@@ -13,4 +13,6 @@ This repo is created to showcase projects created during internship at TechnoHac
 ![image](https://github.com/zeeshanchana95/TechnoHacks-internship-projects/assets/74537328/e777febb-32da-415a-80e5-d014467566b7)
 ![image](https://github.com/zeeshanchana95/TechnoHacks-internship-projects/assets/74537328/913209e6-7946-4faf-b189-b87e66cc5179)
 
-##
+## Project 03: Calculator
+![image](https://github.com/zeeshanchana95/TechnoHacks-internship-projects/assets/74537328/4d5bc038-47a6-4b9d-b13b-76015e76cec9)
+
